@@ -1,23 +1,17 @@
 # GPT Research Assistant
 
-## Overview
 Build your own AI research assistant using the OpenAI Assistants API to access the latest AI research papers.
+If you want to read more about this, code, read my [Medium article](https://medium.com/@jordan_gibbs/how-to-make-a-cutting-edge-ai-research-assistant-ff6e204ada11).
 
 ### The Challenge
 - AI advancements are rapid and hard to track.
 - Common issues include information overload and unreliable sources.
-- Solution: Utilize open-source research papers from arXiv.org.
 
-## arXiv.org Overview
+## arXiv.org
 - arXiv is a curated research-sharing platform hosting over two million scholarly articles.
 - Offers recent and groundbreaking research in various fields, including AI.
 
 ## Building Your Assistant
-### Prerequisites
-- Python & your preferred Python IDE.
-- Access to OpenAI Assistants API.
-- Necessary Python libraries: `pandas`, `openai`, `arxivscraper`.
-
 ### Setup
 1. **Install Libraries:** `pip install pandas openai arxivscraper`.
 2. **arXiv Scraper Code**: Python code to scrape AI-related articles.
@@ -38,6 +32,4 @@ Build your own AI research assistant using the OpenAI Assistants API to access t
 - Type 'exit' to end your session.
 - Saves your chat history to a text file.
 
-## Conclusion
-- Ideal for keeping up with the latest in AI or any other field.
-- Potential for daily automation and email debriefs.
+### Happy Research! 
