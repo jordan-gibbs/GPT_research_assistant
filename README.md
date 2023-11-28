@@ -1,7 +1,6 @@
 # GPT Research Assistant
 
-Build your own AI research assistant using the OpenAI Assistants API to access the latest AI research papers.
-\nIf you want to read more about this, code, read my [Medium article](https://medium.com/@jordan_gibbs/how-to-make-a-cutting-edge-ai-research-assistant-ff6e204ada11).
+**Build your own AI research assistant using the OpenAI Assistants API to access the latest AI research papers.** If you want to read more about this, code, read my [Medium article](https://medium.com/@jordan_gibbs/how-to-make-a-cutting-edge-ai-research-assistant-ff6e204ada11).
 
 ### The Challenge
 - AI advancements are rapid and hard to track.
